@@ -10,5 +10,5 @@ import time
 app = pywinauto.Application().start('D:\\Users\ex-shijs001\AppData\Local\Programs\coco_test\coco_test.exe')
 main_title = 'coco_test'
 app[main_title].print_control_identifiers()
-time.sleep(5)
-app.coco_test.close()
+# time.sleep(5)
+# app.coco_test.close()
