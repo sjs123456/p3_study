@@ -1,0 +1,12 @@
+2020-01-10 17:30:15,767 - root - INFO - user 1234 query userInfo success
+2020-01-10 17:50:59,081 - root - INFO - user 1234 login success
+2020-01-10 17:51:01,177 - root - INFO - user 1234 query userInfo success
+2020-01-10 18:00:11,119 - root - INFO - user 1 login failed, no such account
+2020-01-10 18:00:11,119 - root - INFO - user 1 login failed, failtimes:1
+2020-01-10 18:00:19,904 - root - INFO - user 1234 login success
+2020-01-10 18:00:24,590 - root - INFO - user 1234 query userInfo success
+2020-01-10 18:09:05,490 - access - INFO - user 1 login failed, no such account
+2020-01-10 18:09:05,490 - access - INFO - user 1 login failed, failtimes:1
+2020-01-10 18:09:10,978 - access - INFO - user 1 login failed, no such account
+2020-01-10 18:09:10,978 - access - INFO - user 1 login failed, failtimes:2
+2020-01-10 18:09:18,547 - access - INFO - user 1234 login success

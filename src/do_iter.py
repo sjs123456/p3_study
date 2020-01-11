@@ -14,13 +14,13 @@ def findMinAndMax(n):
                     return "%s不是数字"%i
             nMax = n[0]
             nMin = n[0]
-            for j in range(0,len(n)-1):
+            for j in range(0,len(n)):
                 if  nMax >= n[j]:
                     continue
                 else:
                     nMax = n[j]
 
-            for j in range(0, len( n ) - 1):
+            for j in range(0, len(n)):
                 if nMin <= n[j]:
                     continue
                 else:
@@ -32,4 +32,4 @@ def findMinAndMax(n):
 print(findMinAndMax([]))
 print(findMinAndMax([7]))
 print(findMinAndMax([7,1]))
-print(findMinAndMax([7,1,3,9,5]))
+print(findMinAndMax([7,1,3,9,10,0]))

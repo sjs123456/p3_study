@@ -1,0 +1,5 @@
+[{
+    'accountId':'alex',
+    'password':'123456',
+    'loginType':'0'
+}]

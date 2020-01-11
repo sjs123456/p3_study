@@ -1,0 +1,1 @@
+# !/usr/bin/env python# -*- coding:utf-8 -*-# author : sjs# l = [1, 3, 5, 7]# d = iter(l)# print(d)## # 什么是迭代器 1. 有iter 方法 2. 有next 方法## # print(next(d))# from collections.abc import Iterable,Iterator# print(isinstance(l, Iterator))# print(isinstance(l, Iterable))
