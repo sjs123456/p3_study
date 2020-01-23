@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+<data>
+    <country name='Liechetensteing'>
+        <rank update='yes'>2</rank>
+    </country>
+    <country name='England'>
+        <rank update='yes'>3</rank>
+    </country>
+</data>

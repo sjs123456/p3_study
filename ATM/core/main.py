@@ -43,6 +43,7 @@ def interactive(acc_data, log_obj):
     "3": transaction.withdraw,#( 功能已实现 )
     "4": "transfor",
     "5": "pay_bill",
+
     "6": "logout"
     }
 

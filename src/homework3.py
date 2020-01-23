@@ -3,6 +3,10 @@
 # author : sjs
 
 # 装饰器
+import sys
+import os
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(BASE_DIR)
 
 webPage = ['home', 'finance', 'book']
 weChatAccountData = 'weChatAccountData.txt'

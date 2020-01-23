@@ -3,3 +3,5 @@
 2020-01-10 18:00:24,590 - root - INFO - user 1234 query userInfo success
 2020-01-10 18:09:20,146 - transaction - INFO - user 1234 query userInfo success
 2020-01-10 18:10:15,475 - transaction - INFO - user 1234 repayed 3000 
+2020-01-23 12:52:00,517 - transaction - INFO - user 1234 query userInfo success
+2020-01-23 12:52:08,598 - transaction - INFO - user 1234 repayed 40 
